@@ -1,0 +1,12 @@
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\bin\Debug\TPA.vetor(estefany&otavio).exe.config
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\bin\Debug\TPA.vetor(estefany&otavio).exe
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\bin\Debug\TPA.vetor(estefany&otavio).pdb
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor(estefany&otavio).csproj.AssemblyReference.cache
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor_estefany_otavio_.frmmenu.resources
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor_estefany_otavio_.frmex1.resources
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor_estefany_otavio_.Properties.Resources.resources
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor(estefany&otavio).csproj.GenerateResource.cache
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor(estefany&otavio).csproj.CoreCompileInputs.cache
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor(estefany&otavio).exe
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor(estefany&otavio).pdb
+C:\Users\jpabl\source\repos\vetor.esteh&tavin\TPA.vetor(estefany&otavio)\TPA.vetor(estefany&otavio)\obj\Debug\TPA.vetor(estefany&otavio).exe.config
