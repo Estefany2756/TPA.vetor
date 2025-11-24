@@ -38,5 +38,12 @@ namespace TPA.vetor_estefany_otavio_
         {
             Application.Exit();
         }
+
+        private void tsmiex2_Click(object sender, EventArgs e)
+        {
+            Hide();
+            frmex2 ex2 = new frmex2();
+            ex2.Show();
+        }
     }
 }

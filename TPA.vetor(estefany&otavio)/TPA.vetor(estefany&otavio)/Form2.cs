@@ -17,13 +17,14 @@ namespace TPA.vetor_estefany_otavio_
             InitializeComponent();
             i = 0;
         }
-        Int32[] A = new Int32[2];
-        Int32[] B = new Int32[2];
-        Int32 i, x;
+        Double[] A = new Double[15];
+        Double[] B = new Double[15];
+        Int32 i;
+        double x;
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-            for (i = 0; i <= 1; i++)
+            for (i = 0; i <= 14; i++)
             {
                 B[i] = A[i] * A[i];
 
@@ -57,33 +58,46 @@ namespace TPA.vetor_estefany_otavio_
             txtvetorA.Focus();
             i = 0;
             btncalcular.Visible = false;
-            txtadicionar.Visible = true;
+            btnadicionar.Visible = true;
 
+        }
+
+        private void btnadicionar_Click(object sender, EventArgs e)
+        {
+            if (txtvetorA.Text == "")
+            {
+                MessageBox.Show("Digite um valor!");
+                txtvetorA.Focus();
+                return;
+
+            }
+
+            if (i <= 14)
+            {
+                x = Convert.ToDouble(txtvetorA.Text);
+                A[i] = x;
+                txtvetorA.Clear();
+                txtvetorA.Focus();
+                btncalcular.Visible = false;
+                btnlimpar.Visible = false;
+                i++;
+
+
+            }
+            if (i > 14)
+            {
+                btnadicionar.Visible = false;
+                txtvetorA.Enabled = false;
+                btncalcular.Visible = true;
+
+                i = 0;
+
+            }
         }
 
         private void txtadicionar_Click(object sender, EventArgs e)
         {
-            if (i <= 1)
-            {
-                x = Convert.ToInt32(txtvetorA.Text);
-                A[i] = x;
-                txtvetorA.Clear();
-                txtvetorA.Focus();
-                btncalcular.Visible= false;
-                btnlimpar.Visible = false;
-                i++;
-               
-
-            }
-            if (i > 1)
-            {
-                txtadicionar.Visible = false;
-                txtvetorA.Enabled = false;
-                btncalcular.Visible = true;
-            
-                i = 0;
-
-            }
+           
         }
     }
 }
