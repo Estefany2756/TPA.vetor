@@ -82,6 +82,7 @@
             this.tsmiex3.Name = "tsmiex3";
             this.tsmiex3.Size = new System.Drawing.Size(224, 26);
             this.tsmiex3.Text = "Exercício3";
+            this.tsmiex3.Click += new System.EventHandler(this.tsmiex3_Click);
             // 
             // tsmisair
             // 
